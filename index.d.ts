@@ -51,6 +51,7 @@ declare class ServerlessClient {
   query(...args): Promise<any>
   end(): Promise<any>
   on(...args): void
+  _client: pg.Client
 }
 
 export default ServerlessClient

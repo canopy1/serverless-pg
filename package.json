@@ -1,7 +1,7 @@
 {
   "name": "serverless-postgres",
   "version": "0.0.0-development",
-  "description": "",
+  "description": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "docker-compose up --build -d && jest && docker-compose down",
