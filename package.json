@@ -1,5 +1,5 @@
 {
-  "name": "serverless-postgres",
+  "name": "@canopyinc/serverless-postgres",
   "version": "0.0.0-development",
   "description": "1.0.0",
   "main": "index.js",
